@@ -11,16 +11,16 @@ public class mainApp {
 		System.out.println("Suma: "+(a+b));
 		
 		//Resta
-		System.out.println("Suma: "+(a-b));
+		System.out.println("Resta: "+(a-b));
 		
 		//Multiplicacion
-		System.out.println("Suma: "+(a*b));
+		System.out.println("Multiplicacion: "+(a*b));
 		
 		//Division
-		System.out.println("Suma: "+(a/b));
+		System.out.println("Division: "+(a/b));
 		
 		//Modulo
-		System.out.println("Suma: "+(a%b));
+		System.out.println("Modulo: "+(a%b));
 	}
 
 }
